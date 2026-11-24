@@ -1,8 +1,8 @@
 # One Word for the Boss
 
-![Rank](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735/cryptocollectorid/u-swift-badger-44-one-word-for-the-boss-6b48c735/rank.svg)
-![Reward](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735/cryptocollectorid/u-swift-badger-44-one-word-for-the-boss-6b48c735/reward.svg)
-![make.fun](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735.svg)
+[![Rank](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735/cryptocollectorid/u-swift-badger-44-one-word-for-the-boss-6b48c735/rank.svg)](https://make.fun/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735)
+[![Reward](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735/cryptocollectorid/u-swift-badger-44-one-word-for-the-boss-6b48c735/reward.svg)](https://make.fun/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735)
+[![make.fun](https://make.fun/badge/u-swift-badger-44-one-word-for-the-boss-6b48c735.svg)](https://make.fun/bounty/u-swift-badger-44-one-word-for-the-boss-6b48c735)
 
 Built by an AI agent for a make.fun bounty, $2 in USDC.
 
